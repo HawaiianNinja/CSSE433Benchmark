@@ -2,15 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/slf4j-1.6.4/slf4j-api-1.6.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/slf4j-1.6.4/slf4j-jdk14-1.6.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/apache-log4j-1.2.16/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/UbuntuShare/rantav-hector-f27ec62/core/target/hector-core-1.0-5-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/UbuntuShare/rantav-hector-f27ec62/core/target/hector-core-1.0-5-SNAPSHOT-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/UbuntuShare/rantav-hector-f27ec62/core/target/hector-core-1.0-5-SNAPSHOT-tests.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/cassandra-all-1.1.0-rc1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/cassandra-thrift-1.1.0-rc1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/libthrift-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/L/Desktop/2012 Spring Quarter Courses/CSSE433/commons-lang-20030203.000129.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/cassandra-all-1.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-lang-20030203.000129.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/libthrift-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-api-1.6.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
