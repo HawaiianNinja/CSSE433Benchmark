@@ -2,6 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/cassandra-all-1.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/cassandra-thrift-1.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-lang-20030203.000129.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/guava-11.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/hector-core-1.0-5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/hector-core-1.0-5-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/libthrift-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/libthrift-r808609.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/libthrift-r959516.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-jdk14-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/uuid-3.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

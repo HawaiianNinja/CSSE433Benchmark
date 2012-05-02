@@ -2,10 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/cassandra-all-1.1.0-rc1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-lang-20030203.000129.jar"/>
-	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/libthrift-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/cassandra-thrift-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/commons-pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/FastInfoset-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/guava-r09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/hector-core-1.0-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/speed4j-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/uuid-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/andrew/Dropbox/School/CSSE433/CSSE433Benchmark/cassandra/slf4j-jdk14-1.6.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
