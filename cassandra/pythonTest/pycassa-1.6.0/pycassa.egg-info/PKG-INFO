@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: pycassa
+Version: 1.6.0
+Summary: Python client library for Apache Cassandra
+Home-page: http://github.com/pycassa/pycassa
+Author: Tyler Hobbs
+Author-email: pycassa.maintainer@gmail.com
+License: UNKNOWN
+Download-URL: http://github.com/downloads/pycassa/pycassa/pycassa-1.6.0.tar.gz
+Description: pycassa is a python client library for Apache Cassandra with the following features:
+        
+        1. Auto-failover single or thread-local connections
+        2. Connection pooling
+        3. A batch interface
+        4. Simplified version of the Thrift interface
+        5. A method to map an existing class to a Cassandra column family
+        
+Keywords: cassandra client db distributed thrift
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
